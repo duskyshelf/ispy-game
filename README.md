@@ -1,1 +1,11 @@
 # ispy-game
+
+
+HEY HEY IM A REPO AND I LIKE REPO'ING ROUND
+
+SO LETS ALL DO SOME READMEING
+
+TO MAKE THIS REPO PROUD
+
+## iSpy (working title)
+
