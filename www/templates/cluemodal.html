@@ -1,23 +1,15 @@
-<ion-modal-view>
-  <ion-header-bar>
-    <h1 class="title">{{selectedname.name}} ({{selectedname.points}}<img src="img/gold_star.png" class="gold-star">)</h1>
-    <a class="icon icon-right ion-close-round" ng-click="closeModal()"></a>
-  </ion-header-bar>
-  <ion-content>
-    <div class='main'>
-      <div class='row'>
-        <div class='column'>
-          <img class='clue-image' ng-src={{selectedname.image}}>
-          <img class='clue-image' ng-src={{selectedname.map}}>
-        </div>
-        <ul>
-          <h1 class="facts-title" align="right">Facts</h1>
-          <li align="right">{{selectedname.clue1}}</li>
-          <li align="right">{{selectedname.clue2}}</li>
-          <li align="right">{{selectedname.clue3}}</li>
-        </ul>
-      </div>
-      <button ng-click="takePhoto()">Take Photo</button>
-    </div>
-  </ion-content>
-</ion-modal-view>
+<div class="modal image-modal transparent" on-swipe-down="closeModal()">
+ <ion-pane class="transparent">
+   <img src="img/cameraview/22.png" alt="Camera" style="float:center;height:320px;" >
+ </ion-pane>
+ <div class='column'>
+   <img class='clue-image' ng-src={{selectedname.image}}>
+   <img class='clue-image1' ng-src={{selectedname.map}}>
+ </div>
+ <div id="circle">
+   <span class="innerTEXT"> {{selectedname.clue1}}</span>
+ </div>
+   <div id="button">
+   <input ng-click="takePhoto()" type="image" src="img/cameraview/button.png" alt="Submit" width="75" height="23" >
+ </div>
+</div>

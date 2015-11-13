@@ -14,7 +14,7 @@ angular.module('starter.services', [])
       self.totalScore += monuments[i].points;
     }
     else {
-      self.placeheldgallery[i] = {url: "img/pigeonplaceholder.gif"};
+      self.placeheldgallery[i] = {url: "img/question_mark.gif"};
     }
   }
 
