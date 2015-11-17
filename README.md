@@ -1,5 +1,6 @@
 ## iSpy (working title)
 
+README still in progress.  
 We recommend running this app on an iPhone in landscape mode.
 
 #### How To Play
