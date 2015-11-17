@@ -4,15 +4,15 @@ We recommend running this app on an iPhone in landscape mode.
 
 #### How To Play
 
-When opening the application, you will be met with the following screen:
+When opening the application, you will be met with the following screen:  
 
-![Homepage](./readme_images/Homepage.jpg "Homepage")
+![Homepage](./readme_images/Homepage.jpg "Homepage")  
 
 The translucent icons represent sights around London which you need to find to complete the game.
 
 You can scroll sideways to see more sights.
 
-Tapping one of the icons will load information on the sight as follows:
+Tapping one of the icons will load information on the sight as follows:  
 
 ![Location Details](./readme_images/View3.jpg "Location Details")
 
@@ -20,23 +20,23 @@ In the top right of this view you can see a "Take Photo" icon on the camera. Pre
 
 Didn't work? Are you using a mobile? no? what a shame. Go get one! (its kinda ugly on android, we're still working on it).
 
-This should take you to our gallery view. Your photo should appear in the gallery in the frame corresponding to the sight you chose to take a photo of. Scroll horizontally to find it, it should look like this:
+This should take you to our gallery view. Your photo should appear in the gallery in the frame corresponding to the sight you chose to take a photo of. Scroll horizontally to find it, it should look like this:  
 
-![Gallery](./readme_images/Gallery.jpg "Gallery")
+![Gallery](./readme_images/Gallery.jpg "Gallery")  
 
 There it is! Give it a click too!
 
-This will open up a fullscreen version of your photo, so you can take a closer look.
+This will open up a fullscreen version of your photo, so you can take a closer look.  
 
-![Fullscreen](./readme_images/Landscape-photo.jpg "Fullscreen")
+![Fullscreen](./readme_images/Landscape-photo.jpg "Fullscreen")  
 
 Oh wow, you are professional!
 
 Feel free to try out the nav bar at the bottom whenever you feel like it
 
-You may notice that the main view has updated!
+You may notice that the main view has updated!  
 
-![Updated Homepage](./readme_images/Scored-view1.jpg "Updated Homepage")
+![Updated Homepage](./readme_images/Scored-view1.jpg "Updated Homepage")  
 
 The gallery is still the same, but theres one more link we have checked!
 
