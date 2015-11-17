@@ -7,7 +7,7 @@ We recommend running this app on an iPhone in landscape mode.
 
 When opening the application, you will be met with the following screen:  
 
-![Homepage](./readme_images/Homepage.jpg "Homepage")  
+![Homepage](./readme_images/Homepage.jpg "Homepage" =600x)  
 
 The translucent icons represent sights around London which you need to find to complete the game.
 
