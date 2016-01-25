@@ -1,4 +1,4 @@
-## iSpy (working title)
+## iSpy (readme in progress)
 
 We recommend running this app on an iPhone in landscape mode.
 
